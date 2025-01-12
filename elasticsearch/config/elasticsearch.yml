@@ -1,0 +1,6 @@
+xpack.security.enabled: false
+cluster.name: movie-recommendation-cluster
+node.name: movie-node-1
+
+# Update the network.host to localhost
+network.host: 127.0.0.1
