@@ -1,10 +1,7 @@
-Here’s a draft for the README file for your **Distributed Movie Connect** project:
 
----
+# Pickle-Movie
 
-# Distributed Movie Connect
-
-Distributed Movie Connect is a cutting-edge, distributed web application designed for discovering, rating, and collaboratively selecting movies. The platform combines AI-driven movie recommendations with a user-friendly interface, enabling real-time collaboration and personalized decision-making for movie enthusiasts.
+Pickle-Movie is a distributed web application designed for discovering, rating, and collaboratively selecting movies. The platform combines AI-driven movie recommendations with a user-friendly interface, enabling real-time collaboration and personalized decision-making for movie enthusiasts.
 
 ---
 
