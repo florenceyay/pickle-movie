@@ -1,7 +1,7 @@
 
 # Pickle-Movie
 
-Pickle-Movie is a distributed web application designed for discovering, rating, and collaboratively selecting movies. The platform combines AI-driven movie recommendations with a user-friendly interface, enabling real-time collaboration and personalized decision-making for movie enthusiasts.
+Pickle-Movie (pick-a-movie) is a distributed web application designed for discovering, rating, and collaboratively selecting movies. The platform combines AI-driven movie recommendations with a user-friendly interface, enabling real-time collaboration and personalized decision-making for movie enthusiasts.
 
 ---
 
